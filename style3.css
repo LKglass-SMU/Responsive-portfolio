@@ -1,0 +1,29 @@
+#exampleInputMessage1{
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
+.form-group{
+    width: 550px;
+}
+
+body{
+    background-color: rgb(122, 124, 206);
+}
+.container{
+    width: 700px;
+    background-color: rgb(197, 179, 185);
+    margin: 60px;
+    padding-bottom: 20px;
+}
+.navbar-brand{
+    margin-left: 20px;
+    background-color: rgb(105, 105, 189);
+    padding: 10px;
+ }
+
+.topnav-right{
+    margin-right: 80px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
